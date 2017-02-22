@@ -253,6 +253,6 @@ b.doing.r5 img:hover { width: 47px;
 .carousel-control:hover,.tip_area_close:hover { background-color: rgba(0,0,0,0.6); }
 .carousel-control:active,.tip_area_close:active { background-color: rgba(0,0,0,0.7); }
 
-.s2 .new-line {
+.new-line {
 	display : block;
 }
